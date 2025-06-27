@@ -27,7 +27,7 @@ const optionsMenu = [
     
 ]
 
-function NavBar() {
+function Navbar() {
   return (
     <div className={NavBarCSS.father}>
         <div className={NavBarCSS.navbar_container}>
@@ -56,4 +56,4 @@ function NavBar() {
   )
 }
 
-export default NavBar
+export default Navbar

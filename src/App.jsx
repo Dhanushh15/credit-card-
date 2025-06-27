@@ -1,5 +1,5 @@
 import React from 'react'
-import NavBar from './components/NavBar/NavBar'
+import NavBar from './components/Navbar/Navbar'
 import DashBoard from './components/DashBoard/DashBoard'
 import './App.css'
 import Profile from './components/Profile/Profile'
